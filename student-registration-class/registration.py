@@ -8,7 +8,7 @@ class Student:
         print(f"Registration Number: {self.reg_number}")
 
 
-student1 = Student("Nabaggala Racheal", "M23B13/")
+student1 = Student("Nabaggala Racheal", "M23B13/035")
 student1.display_info()
 
 
